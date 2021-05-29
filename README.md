@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**cristiansear/cristiansear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola!, Soy egresado de Ingeniería económica de la UNI. Me estoy especializando en políticas públicas, teoría económica, economía del comportamiento y ciencia de datos.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
